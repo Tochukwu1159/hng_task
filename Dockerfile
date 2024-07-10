@@ -13,7 +13,7 @@ FROM openjdk:17-alpine AS runner
 WORKDIR /app
 
 # Copy the JAR file from the builder stage
-COPY --from=builder /target/*.jar app.jar
+COPY --from=builder /target/HNG2New-0.0.1-SNAPSHOT.jar app.jar
 
 
 # Expose the port where your Spring Boot application listens (replace 8080 with your actual port)
