@@ -1,0 +1,15 @@
+/Users/mac/Downloads/hng_stage_two_task-main/src/main/java/com/emma/HNG2/controller/UserController.java
+/Users/mac/Downloads/hng_stage_two_task-main/src/main/java/com/emma/HNG2/service/UserService.java
+/Users/mac/Downloads/hng_stage_two_task-main/src/main/java/com/emma/HNG2/util/UserRequest.java
+/Users/mac/Downloads/hng_stage_two_task-main/src/main/java/com/emma/HNG2/util/JwtUtil.java
+/Users/mac/Downloads/hng_stage_two_task-main/src/main/java/com/emma/HNG2/model/Organisation.java
+/Users/mac/Downloads/hng_stage_two_task-main/src/main/java/com/emma/HNG2/controller/AuthController.java
+/Users/mac/Downloads/hng_stage_two_task-main/src/main/java/com/emma/HNG2/service/CustomUserDetailsService.java
+/Users/mac/Downloads/hng_stage_two_task-main/src/main/java/com/emma/HNG2/service/OrganisationService.java
+/Users/mac/Downloads/hng_stage_two_task-main/src/main/java/com/emma/HNG2/repository/UserRepository.java
+/Users/mac/Downloads/hng_stage_two_task-main/src/main/java/com/emma/HNG2/config/SecurityConfig.java
+/Users/mac/Downloads/hng_stage_two_task-main/src/main/java/com/emma/HNG2/repository/OrganisationRepository.java
+/Users/mac/Downloads/hng_stage_two_task-main/src/main/java/com/emma/HNG2/model/User.java
+/Users/mac/Downloads/hng_stage_two_task-main/src/main/java/com/emma/HNG2/util/JwtAuthenticationFilter.java
+/Users/mac/Downloads/hng_stage_two_task-main/src/main/java/com/emma/HNG2/controller/OrganisationController.java
+/Users/mac/Downloads/hng_stage_two_task-main/src/main/java/com/emma/HNG2/HNG2.java
