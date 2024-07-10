@@ -7,7 +7,7 @@ WORKDIR /app
 COPY . .
 
 # Use a multi-stage build to create a slimmer image
-FROM openjdk:17-jre-alpine AS runner
+FROM openjdk:17-alpine AS runner
 
 # Set working directory for the runner stage
 WORKDIR /app
