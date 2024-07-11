@@ -1,6 +1,7 @@
 com/emma/HNG2/controller/UserController.class
 com/emma/HNG2/service/OrganisationService.class
 com/emma/HNG2/util/UserRequest.class
+com/emma/HNG2/util/UserResponse.class
 com/emma/HNG2/util/JwtAuthenticationFilter.class
 com/emma/HNG2/service/UserService.class
 com/emma/HNG2/controller/AuthController.class

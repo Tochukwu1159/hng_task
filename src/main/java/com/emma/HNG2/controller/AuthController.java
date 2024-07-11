@@ -3,6 +3,8 @@ package com.emma.HNG2.controller;
 import com.emma.HNG2.model.User;
 import com.emma.HNG2.service.UserService;
 import com.emma.HNG2.util.JwtUtil;
+import com.emma.HNG2.util.UserRequest;
+import com.emma.HNG2.util.UserResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -29,19 +31,14 @@ public class AuthController {
     private PasswordEncoder passwordEncoder;
 
     @PostMapping("/register")
-    public ResponseEntity<?> registerUser(@RequestBody User user) {
+    public ResponseEntity<?> registerUser(@RequestBody UserRequest userRequest) {
         try {
-            User registeredUser = userService.registerUser(user);
-            String token = jwtUtil.generateToken(registeredUser.getEmail());
+            UserResponse userResponse = userService.registerUser(userRequest);
 
             Map<String, Object> response = new LinkedHashMap<>();
             response.put("status", "success");
             response.put("message", "Registration successful");
-
-            Map<String, Object> data = new LinkedHashMap<>();
-            data.put("accessToken", token);
-            data.put("user", registeredUser);
-            response.put("data", data);
+            response.put("data", userResponse);
 
             return ResponseEntity.status(HttpStatus.CREATED).body(response);
         } catch (RuntimeException e) {

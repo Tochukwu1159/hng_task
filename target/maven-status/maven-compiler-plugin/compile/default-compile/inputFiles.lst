@@ -7,6 +7,7 @@
 /Users/mac/Downloads/hng_stage_two_task-main/src/main/java/com/emma/HNG2/service/CustomUserDetailsService.java
 /Users/mac/Downloads/hng_stage_two_task-main/src/main/java/com/emma/HNG2/service/OrganisationService.java
 /Users/mac/Downloads/hng_stage_two_task-main/src/main/java/com/emma/HNG2/repository/UserRepository.java
+/Users/mac/Downloads/hng_stage_two_task-main/src/main/java/com/emma/HNG2/util/UserResponse.java
 /Users/mac/Downloads/hng_stage_two_task-main/src/main/java/com/emma/HNG2/config/SecurityConfig.java
 /Users/mac/Downloads/hng_stage_two_task-main/src/main/java/com/emma/HNG2/repository/OrganisationRepository.java
 /Users/mac/Downloads/hng_stage_two_task-main/src/main/java/com/emma/HNG2/model/User.java
