@@ -6,16 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e13cd143-3c46-4a7f-a7b9-092dcd659462" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/emma/HNG2/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emma/HNG2/controller/AuthController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/emma/HNG2/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/emma/HNG2/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HNG2New-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/HNG2New-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/HNG2New-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/HNG2New-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/emma/HNG2/controller/AuthController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/emma/HNG2/controller/AuthController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/emma/HNG2/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/emma/HNG2/service/UserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.emma.HNG2.HNG2Tests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.emma.HNG2.HNG2Tests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.emma.HNG2.HNG2Tests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.emma.HNG2.HNG2Tests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-dev.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1720640003102</updated>
       <workItem from="1720640009417" duration="1722000" />
-      <workItem from="1720641796955" duration="19988000" />
+      <workItem from="1720641796955" duration="20929000" />
     </task>
     <servers />
   </component>
